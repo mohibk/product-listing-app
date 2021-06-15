@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "cat_title": "Pizza"
+  },
+  {
+    "id": 2,
+    "cat_title": "Biryani"
+  },
+  {
+    "id": 3,
+    "cat_title": "Breakfast"
+  },
+  {
+    "id": 4,
+    "cat_title": "Desserts"
+  },
+  {
+    "id": 5,
+    "cat_title": "Burgers"
+  },
+  {
+    "id": 6,
+    "cat_title": "Sandwiches"
+  }
+]
