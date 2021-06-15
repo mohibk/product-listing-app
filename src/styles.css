@@ -1,15 +1,20 @@
+:root {
+  --primary-color: rgb(103, 105, 236);
+  --secondary-color: #ebf3fb;
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
   font-family: "Lato", "Helvetica", Helvetica, sans-serif;
-  background: #ebf3fb;
+  background: var(--secondary-color);
   letter-spacing: 1px;
   font-size: 1.2rem;
   font-weight: 100;
   padding: 1rem;
-  color: rgb(103, 105, 236);
+  color: var(--primary-color);
 }
 
 .header {
@@ -37,7 +42,7 @@ body {
 
 .products {
   width: 80%;
-  color: #fff;
+  color: var(--primary-color);
   padding: 0;
   margin: 1rem auto;
   flex-wrap: wrap;
